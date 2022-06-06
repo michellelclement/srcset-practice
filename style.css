@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: white;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.header-image-container {
+    background-image: url(images/windmills.jpg);
+    height: 500px;
+    background-repeat: no-repeatgit a;
+    background-size: cover;
+    background-position: center;
+}
+
+.main-img-container {
+    height: 500px;
+    background-color: blanchedalmond;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-img {
+    height: 400px;
+
+}
